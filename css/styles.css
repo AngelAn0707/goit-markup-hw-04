@@ -483,16 +483,14 @@ color: #404bbf;
             
           }
             .footer-container{ 
-             width: 1440px; 
+             
             display: flex;
-            justify-content: center;
-            align-items: baseline;
+             align-items: baseline;
            
             }
                
          .logo-container {
-            padding-left: 156px;
-            padding-right: 120px;
+           
             margin-right: 120px
         }
           .logo-fotter-logo {
